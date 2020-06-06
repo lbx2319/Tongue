@@ -67,6 +67,8 @@ for f in files:
     
     cv2.imwrite(mobile_path+'/Perdict_'+f,dst)
     
+    #achange test
+    
     # GT = cv2.imread(GT_path+'/'+f,0) 
     # print(GT.shape)
     # print(msk.shape)
